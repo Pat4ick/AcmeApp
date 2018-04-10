@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Acme.Biz
 {
     /// <summary>
-    /// Manages products carried
+    /// Manages products carried.
     /// </summary>
     public class Product
     {
